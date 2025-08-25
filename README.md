@@ -47,3 +47,9 @@ Some of the main charts created:
 
 ## 🚀 Conclusion
 This project highlights how data analysis can uncover trends in the film industry, from genre preferences to audience engagement. The insights can be useful for understanding **audience behavior, industry trends, and content strategy** in entertainment.  
+
+## 👤 Author
+- Mohd Salik
+- 📧 Contact: mohdsalik715@gmail.com 
+- 🌐 Portfolio: https://github.com/salik-rajput786
+- 🌐 Linkedin : https://www.linkedin.com/in/mohd-salik-rajput-406531247/ 
